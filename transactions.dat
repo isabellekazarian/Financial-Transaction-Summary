@@ -1,0 +1,10 @@
+Transaction ID       Deposit/Withdrawal    Amount       Category
+1                        D                 1025.25         1
+2                        W                 25.25           2
+3                        W                 15.25           2
+4                        W                 825.25          3
+7                        D                 2300.00         10
+8                        W                 1025.25         3
+5                        W                 25.25           14
+6                        W                 624.38          14
+10                       W                 5.25            2

@@ -1,0 +1,11 @@
+Category ID         Description
+1                   Pay Check
+2                   Groceries
+3                   Utilities
+14                  Rent
+25                  Mortgage
+6                   Travel
+7                   Refund
+8                   Restaurant
+9                   College Fund
+10                  Transfer From Savings
